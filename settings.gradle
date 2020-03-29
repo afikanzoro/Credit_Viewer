@@ -1,0 +1,2 @@
+rootProject.name='Credit_Viewer'
+include ':app'
